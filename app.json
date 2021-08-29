@@ -1,0 +1,7 @@
+{
+	"name": "QingLong",
+	"description": "Deploy QingLong on Heroku.",
+	"keywords": ["QingLong"],
+	"repository": "https://github.com/tyronesaint/qinglong",
+	"stack": "container"
+}
